@@ -1,9 +1,9 @@
 # Alpha
 
 ## Team members
-Abdirahman
-Andile
-Daniel
-Keanu
+Abdirahman,
+Andile,
+Daniel,
+Keanu,
 Thibedi
-Ubayd
+and Ubayd
